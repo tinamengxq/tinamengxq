@@ -10,10 +10,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Programming and tools:
+<h4 align="left">Programming and tools:</h4>
 <p align="left">C#, C++, R, Python</p>
-<p align="left">Unity
-<h4 align="left">Design:
+<p align="left">Unity</p>
+<h4 align="left">Design:</h4>
 <p align="left">Canva, Shapr3D, Procreate, PowerPoint</p>
-<h4 align="left">Laboratory:
+<h4 align="left">Laboratory:</h4>
 <p align="left">LoggerPro, Excel</p>
