@@ -9,6 +9,7 @@
 <p align="left">Current GPA: 4.0</p>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming and tools:</h4>
 <p align="left">C#, C++, R, Python</p>
