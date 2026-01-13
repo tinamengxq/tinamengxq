@@ -3,7 +3,7 @@
 
 <h3 align="left">Basic info:</h3>
 <p align="left">University of California, Irvine</p>
-<p align="right">Plan to graduate in SPRING 2029</p>
+<p align="left">Plan to graduate in SPRING 2029</p>
 <p align="left">B.A. in Anthropology</p>
 <p align="left">B.S. in Game Design and Interactive Media</p>
 <p align="left">Current GPA: 4.0/4.0</p>
