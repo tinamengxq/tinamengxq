@@ -4,7 +4,7 @@ Games are listed in chronological order.
 #### itch.io website
 [My personal itch webpage]{https://tinamengxq.itch.io/}
 
-# Fall 2025, GDIM 31, Introduction to Game Programming
+## Fall 2025, GDIM 31, Introduction to Game Programming
 1. [1st in-class game]{https://tinamengxq.itch.io/w1-tina-meng}
 2. [Week 1 minigame]{https://tinamengxq.itch.io/mg1-tina}
 3. [Week 2 minigame]{https://tinamengxq.itch.io/mg2-tina}
@@ -15,7 +15,7 @@ Games are listed in chronological order.
 8. [Week 7 minigame]{https://tinamengxq.itch.io/mg7-tina}
 9. [Final prokect]{https://tinamengxq.itch.io/final-tina}
 
-# Winter 2026, GDIM 32, Intermediate Game Programmming
+## Winter 2026, GDIM 32, Intermediate Game Programmming
 1. [Week 1 minigame]{https://tinamengxq.itch.io/32mg1-tina}
 2. [Week 2 minigame]{https://tinamengxq.itch.io/32mg2-tina}
 3. [Week 3 minigame]{https://tinamengxq.itch.io/32mg3-tina}
