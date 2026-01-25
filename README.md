@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tina Meng</h1>
-<h3 align="center">A freshman in UC Irvine.</h3>
 
 <h3 align="left">Basic info:</h3>
 <p align="left">University of California, Irvine</p>
