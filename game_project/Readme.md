@@ -13,7 +13,7 @@ Games are listed in chronological order.
 6. [Week 5 minigame](https://tinamengxq.itch.io/mg5-tina)
 7. [Week 6 minigame](https://tinamengxq.itch.io/mg6-tina)
 8. [Week 7 minigame](https://tinamengxq.itch.io/mg7-tina)
-9. [Final prokect](https://tinamengxq.itch.io/final-tina)
+9. [Final project](https://tinamengxq.itch.io/final-tina)
 
 #### Class Description
 Learn the fundamentals of programming for games through hands-on exercises in programming languages like C#, Processing, Visual Studio, .NET, and the Unity engine. Students build several small game prototypes.
