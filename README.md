@@ -18,7 +18,7 @@
 <h4 align="left">Laboratory:</h4>
 <p align="left">LoggerPro, Excel</p>
 
-<h3 align="left">Game Design Projets:</h3>
+<h3 align="left">Game Design Projects:</h3>
 <p align="left">[World Book Design](https://github.com/tinamengxq/tinamengxq/tree/main/worldbookproject)
 </p>
 <p align="left">[Game Coding Projects](https://github.com/tinamengxq/tinamengxq/blob/main/game_project/Readme.md)
