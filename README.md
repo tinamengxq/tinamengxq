@@ -19,5 +19,5 @@
 <p align="left">LoggerPro, Excel</p>
 
 <h3 align="left">Game Design Projets:</h3>
-[World Book Design]{https://github.com/tinamengxq/tinamengxq/tree/main/worldbookproject}
-[Game Coding Projects]{https://github.com/tinamengxq/tinamengxq/blob/main/game_project/Readme.md}
+<p align="left">[World Book Design](https://github.com/tinamengxq/tinamengxq/tree/main/worldbookproject)</p>
+<p align="left">[Game Coding Projects](https://github.com/tinamengxq/tinamengxq/blob/main/game_project/Readme.md)</p>
