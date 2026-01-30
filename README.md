@@ -17,3 +17,7 @@
 <p align="left">Canva, Shapr3D, Procreate, PowerPoint</p>
 <h4 align="left">Laboratory:</h4>
 <p align="left">LoggerPro, Excel</p>
+
+<h3 align="left">Game Design Projets:</h3>
+[World Book Design]{https://github.com/tinamengxq/tinamengxq/tree/main/worldbookproject}
+[Game Coding Projects]{https://github.com/tinamengxq/tinamengxq/blob/main/game_project/Readme.md}
