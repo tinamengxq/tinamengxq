@@ -3,9 +3,13 @@
 
 ## Basic info:
 University of California, Irvine
+
 Plan to graduate in SPRING 2029
+
 B.A. in Anthropology
+
 B.S. in Game Design and Interactive Media
+
 Current GPA: 4.0/4.0
 
 
