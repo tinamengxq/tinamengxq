@@ -11,5 +11,5 @@ This was a group project done by 5 college students when I was a freshman. It wa
 ## What is this course
 1. Game Design and Interactive Meida 51: Visual Design Fundamental
 2. Class provided by University of California, Irvine
-3. Class Description
+3. Class Description</p>
     Explore the fundamentals of game design through the design and play of simple analog game systems. Students explore the principles and usage of game design elements through hands-on projects emphasizing iteration and playtesting in a creative game design community.
