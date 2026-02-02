@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Tina
 
+[Chinese version](https://github.com/tinamengxq/tinamengxqCN)
 
 ## Basic info:
 University of California, Irvine
