@@ -22,6 +22,7 @@ Learn the fundamentals of programming for games through hands-on exercises in pr
 1. [Week 1 minigame](https://tinamengxq.itch.io/32mg1-tina)
 2. [Week 2 minigame](https://tinamengxq.itch.io/32mg2-tina)
 3. [Week 3 minigame](https://tinamengxq.itch.io/32mg3-tina)
+4. [Week 4 minigame](https://tinamengxq.itch.io/32mg4-tina)
 
 #### Class Description
 Students advance their skills with game programming, building on existing skills developed in Introduction to Programming for Games. Hands-on projects emphasize general procedural and problem-solving skills, as well as furthering knowledge of C# and the Unity3D/Unreal game engines.
